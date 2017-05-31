@@ -1,0 +1,35 @@
+font-family: Tahoma, Geneva, sans-serif;
+}
+
+h1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+
+body {
+	background-color: silver;
+	margin: 0px;
+	padding: 0px;
+}
+
+button {
+  background-color: white;
+  color: pink;
+  font-size: large;
+  font-weight: bold
+}
+h1 {
+  color: pink;
+  background-color: white;
+  width:30%
+}
+
+body {
+  margin-left: 20%
+}
+#odgovor {
+  width:100%;
+  color: blue
+}
