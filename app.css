@@ -1,0 +1,85 @@
+body
+{
+background-attachment: fixed;
+  background: url(planer.jpg)  center top no-repeat;
+  
+  background-size: cover;
+}
+
+
+#header {
+ 
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: Times New Roman;
+
+  
+  text-shadow: 1px 1px 0.5px black;
+  
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    margin: 1.8em 0 1.4em;
+    text-align: center;
+    
+}
+
+#header a:link , #header a:active, #header a:visited, #header a:hover{
+ text-decoration: none;
+}
+
+#wrapper {
+
+  background-color: rgba(239, 28, 127, 0.75);
+  width: 600px;
+  margin-top: auto;
+  margin-right:auto;
+ 
+  margin-left:auto;
+  box-shadow: 0 10px 15px -3px black;
+}
+#main {
+    padding: 25px;
+    margin: 25px;
+}
+
+#liste {
+  background-color: #ffffff;
+  opacity: 0.8;
+  width: 480px;
+  margin-top: 40px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: auto;
+  -webkit-box-shadow: 0 9px 9px -5px black;
+  -moz-box-shadow: 0 9px 9px -5px black;
+  box-shadow: 0 9px 9px -5px black;
+  padding: 10px;
+ 
+}
+
+#footer {
+  width: 600px;
+  height: 60px;
+  clear: both;
+  background-color: #1a1a1a;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+}
+
+#footer
+{
+  color: white;
+  text-align: center;
+  display: block;
+  background-color: rgba(0, 0, 0, 0.65);
+  height: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 20px;
+  -webkit-box-shadow: 0 9px 9px -5px black;
+  -moz-box-shadow: 0 9px 9px -5px black;
+  box-shadow: 0 9px 9px -5px black;
+
+
+}
