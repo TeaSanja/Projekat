@@ -1,0 +1,20 @@
+{
+  "name": "liste",
+  "version": "1.0.0",
+  "description": "Web aplikacija za liste",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeaSanja/Projekat"
+  },
+  "author": "Teodora Mijailovic, Sanja Orlovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeaSanja/Projekat/issues"
+  },
+  "homepage": "https://github.com/TeaSanja/Projekat#readme"
+}
