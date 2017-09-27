@@ -1,7 +1,7 @@
 window.onload = function() {
   
   var dugmeSacuvaj = document.querySelector("#forma");
-  dugmeSacuvaj.addEventListener("submit", SacuvajLista);
+  dugmeSacuvaj.addEventListener("submit", Sacuvajlista);
 
 }
 
@@ -26,7 +26,7 @@ function AjaxZahtev(options, callback) {
 
 
 
-function SacuvajLista(e){
+function Sacuvajlista(e){
   e.preventDefault();
 
   var ime = document.querySelector("#name").value;
